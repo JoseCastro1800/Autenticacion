@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Desktop\Autenticacion\Autenticacion\bin\Debug\Autenticacion.exe.config
+C:\Users\karla\OneDrive\Desktop\Autenticacion\Autenticacion\bin\Debug\Autenticacion.exe
+C:\Users\karla\OneDrive\Desktop\Autenticacion\Autenticacion\bin\Debug\Autenticacion.pdb
+C:\Users\karla\OneDrive\Desktop\Autenticacion\Autenticacion\obj\Debug\Autenticacion.csprojAssemblyReference.cache
+C:\Users\karla\OneDrive\Desktop\Autenticacion\Autenticacion\obj\Debug\Autenticacion.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Desktop\Autenticacion\Autenticacion\obj\Debug\Autenticacion.exe
+C:\Users\karla\OneDrive\Desktop\Autenticacion\Autenticacion\obj\Debug\Autenticacion.pdb
